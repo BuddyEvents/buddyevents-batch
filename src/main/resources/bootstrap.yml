@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: buddyevents-batch
+  profiles:
+      active: dev 
+  
